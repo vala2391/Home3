@@ -1,0 +1,19 @@
+
+header {
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+header {
+  /* background-color: black; */
+  color: white;
+  padding: 20px;
+  border: 2px solid #181717;
+}
+a {color: black;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+}
